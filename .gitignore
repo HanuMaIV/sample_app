@@ -18,3 +18,8 @@
 
 # Ignore Spring files.
 /spring/*.pid
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
